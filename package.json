@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "chai": "^4.3.4",
+    "fs-extra": "^9.1.0",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.2.4"
+  }
+}
